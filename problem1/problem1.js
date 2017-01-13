@@ -33,6 +33,6 @@ controller.addEventListener("click", function(evt) {
   if(btn.tagName !== "BUTTON") return;
   var inputValue = btn.previousElementSibling.value;
   var actionType = btn.className;
-  middleWare(actionType, inputValue);
+  doSomething(actionType, inputValue);
 });
 
