@@ -3,6 +3,8 @@
 이 작업을 위해서는 서버가 필요합니다.
  \> python -m SimpleHTTPServer 8000 등을 사용.
 
+## 완성 UI
+<img src="https://github.com/code-squad/white-web-practice-code/blob/master/tabui/result/tabui.jpg" width="200px;">
 
 ## 요구사항
 - 그림과 같은 모습이 되도록 css 개발을 합니다.
